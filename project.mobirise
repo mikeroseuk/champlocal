@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ChampLocal",
-    "currentPage": "business.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
