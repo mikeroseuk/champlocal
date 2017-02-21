@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 22,
+    "uniqCompNum": 23,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -126,11 +126,13 @@
           "_styles": {
             ".mbr-section-title": {
               "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "text-align": "center"
             },
             "P": {
               "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "text-align": "center"
             }
           },
           "_anchor": "content5-i",
@@ -139,7 +141,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/angle-view-of-iphone-6s-space-gray-2000x1333.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -153,7 +155,7 @@
             "showCaption": true
           },
           "title": "Incredibly easy to use!",
-          "caption": "<p>You’ll wonder how you survived without the ChampLocal app. It’s a breeze to use and deliveres just the right information you want when you need a LOCAL business. </p><p>Plumbers, gardeners, accountants, carpet fitters … whatever you need, when you need it. </p><p>And they're all just around the corner.</p>"
+          "caption": "<p>You’ll wonder how you survived without the ChampLocal app. </p><p>It’s a breeze to use and deliveres just the right information you want when you need a LOCAL business. </p><p>Plumbers, gardeners, accountants, carpet fitters … whatever you need, when you need it. </p><p>And they're all just around the corner.</p>"
         },
         {
           "alias": "purity/components",
@@ -178,7 +180,7 @@
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/white-old-wood-bck-2000x1500.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -292,7 +294,7 @@
             }
           },
           "_anchor": "header3-j",
-          "title": "Did we mention that the app is FREE!",
+          "title": "Did we mention that the app is a FREE download!",
           "_params": {
             "showMeta": false
           },
@@ -313,7 +315,7 @@
           "_anchor": "features1-l",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": 3,
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
@@ -404,6 +406,15 @@
           "title4": "Unlimited Sites",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-m",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">Business owners • enhance your entry here</a> "
         },
         {
           "alias": "purity/components",
