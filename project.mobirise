@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "ChampLocal",
-    "currentPage": "index.html",
+    "currentPage": "business.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
       "styling": {}
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 23,
+    "uniqCompNum": 32,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -43,7 +43,7 @@
           "_params": {
             "hamburgerColor": "#ffffff",
             "sticky": false,
-            "transparent": true,
+            "transparent": false,
             "color": "#000000",
             "collapsed": true,
             "logo": true,
@@ -68,7 +68,7 @@
           },
           "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Mobirise</a>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">BUSINESSES</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"index.html#contacts1-2\">CONTACT</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"terms.html\">TERMS</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-warning\" data-app-selector=\".nav-link\" href=\"business.html\">BUSINESS OWNER?</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"index.html#contacts1-2\">CONTACT</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"terms.html\">TERMS</a></li>"
         },
         {
           "_inherit": "header1",
@@ -139,8 +139,8 @@
           },
           "_anchor": "content5-i",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/angle-view-of-iphone-6s-space-gray-2000x1333.jpg",
@@ -157,7 +157,7 @@
             "showCaption": true
           },
           "title": "Incredibly easy to use!",
-          "caption": "<p>You’ll wonder how you survived without the ChampLocal app.</p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">It’s a breeze to use and deliveres just the right information you want when you need a LOCAL business.</span></p><p>Plumbers, gardeners, accountants, carpet fitters … whatever you need, when you need it.&nbsp;<br><span style=\"font-size: 1.25rem; line-height: 1.5;\">And they're all just around the corner.</span></p><p><b>Over 13,000 businesses under more than 700 business categories <br>… throughout Sefton, North Liverpool and West Lancashire.</b></p>"
+          "caption": "<p>You’ll wonder how you survived without the ChampLocal app.</p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">It’s a breeze to use and delivers just the right information you want when you are in need of a LOCAL business.</span></p><p>Plumbers, gardeners, accountants, carpet fitters … whatever you need, when you need it.&nbsp;<br><span style=\"font-size: 1.25rem; line-height: 1.5;\">And they're all just around the corner.</span></p><p><b>Over 13,000 businesses under more than 700 business categories <br>… throughout Sefton, North Liverpool and West Lancashire.</b></p>"
         },
         {
           "alias": "purity/components",
@@ -285,7 +285,7 @@
             "H3": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "100px",
+              "font-size": "84px",
               "text-align": "center"
             },
             "SMALL": {
@@ -296,7 +296,7 @@
             }
           },
           "_anchor": "header3-j",
-          "title": "Did we mention that the app is a <b>FREE</b> download!",
+          "title": "Did we mention that our app is&nbsp;<b>FREE</b>&nbsp;to download!",
           "_params": {
             "showMeta": false
           },
@@ -481,7 +481,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "bgColor": "#37383e",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -532,7 +532,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "bgColor": "#26272c",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -572,7 +572,7 @@
           "_params": {
             "hamburgerColor": "#ffffff",
             "sticky": false,
-            "transparent": true,
+            "transparent": false,
             "color": "#000000",
             "collapsed": true,
             "logo": true,
@@ -597,7 +597,7 @@
           },
           "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Mobirise</a>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">BUSINESSES</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"index.html#contacts1-2\">CONTACT</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"terms.html\">TERMS</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-warning\" data-app-selector=\".nav-link\" href=\"business.html\">BUSINESS OWNER?</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"index.html#contacts1-2\">CONTACT</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"terms.html\">TERMS</a></li>"
         },
         {
           "alias": "purity/components",
@@ -662,7 +662,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "bgColor": "#37383e",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -705,7 +705,314 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "bgColor": "#26272c",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "© 1992 -2017 Champion Media Group - &nbsp;All rights reserved. <br>ChampLocal, Champion Newspapers, CMG and Champion Media Group are trading styles of Waypride Limited, registered in England &amp; Wales at the above address, &nbsp;company reg. no. 02889999.<br><a href=\"terms.html\">Terms &amp; Conditions of Use</a>"
+        }
+      ]
+    },
+    "business.html": {
+      "settings": {},
+      "components": [
+        {
+          "_inherit": "menu",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "ext.menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".nav-link": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "15px"
+            }
+          },
+          "_anchor": "ext_menu-n",
+          "_params": {
+            "hamburgerColor": "#ffffff",
+            "sticky": false,
+            "transparent": false,
+            "color": "#000000",
+            "collapsed": true,
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/champlocal-white-533x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Mobirise</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-warning\" data-app-selector=\".nav-link\" href=\"business.html\">BUSINESS OWNER?</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"index.html#contacts1-2\">CONTACT</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"terms.html\">TERMS</a></li>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-s",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/angle-view-of-iphone-6s-space-gray-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#fff",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "Get yourself noticed!",
+          "caption": "<p>Over 13,000 LOCAL businesses are listed on the ChampLocal app, under more than 700 categories from Accountants to Zoos. If you want your business to stand out, get a <b>PREMIUM LISTING</b>.</p><p>Your free listing shows your name, address and phone number.&nbsp;</p><p>With a <b>PREMIUM LISTING</b> you can add an additional phone number, both your email and website addresses, Facebook and Twitter links, a 500 character synopsis of your business and a location link using Google® Maps.</p><p>And you can afford it too!</p>",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "72px"
+            },
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "24px"
+            }
+          }
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-r",
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/photo-13.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/jF9T20J9mt8",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder."
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-t",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/champlocal005-2000x1400.jpg",
+            "bgColor": "#dddddd",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "firstType": "bg-success",
+            "showButtons": false,
+            "secondType": "bg-danger",
+            "thirdType": "bg-warning",
+            "fourthType": "bg-success"
+          },
+          "title1": "FREE LISTING",
+          "currency1": "",
+          "price1": "£ FREE",
+          "period1": "",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Business name</b></li><li class=\"list-group-item\"><b>Address</b></li><li class=\"list-group-item\"><b>Telephone number</b></li><li class=\"list-group-item\"><b>Single business category</b></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
+          "title2": "<b>PREMIUM LISTING</b>",
+          "currency2": "<b>£</b>",
+          "price2": "<b>59</b>",
+          "period2": "per year",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Business Name</b></li><li class=\"list-group-item\"><b>Address</b></li><li class=\"list-group-item\"><b>2x Telephone numbers</b></li><li class=\"list-group-item\"><b>2x Business Categories</b></li><li class=\"list-group-item\"><b>Email &amp; Website Links</b></li><li class=\"list-group-item\"><b>Facbook &amp; Twitter Links</b></li><li class=\"list-group-item\"><b>Google® Map Link</b></li><li class=\"list-group-item\"><b>500 character synopsis</b></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
+          "title3": "ADDITIONAL CATEGORY",
+          "currency3": "from <b>£</b>",
+          "price3": "<b>29</b>",
+          "period3": "per year",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Premium Listing under an extra Business&nbsp;Category</b></li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
+          "title4": "FRONT PAGE ADVERT",
+          "currency4": "<b>£</b>",
+          "price4": "<b>59</b>",
+          "period4": "per month",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>In-app Advertisement</b><br>(max. six)</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
+          "_styles": {
+            "DIV": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          }
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-v",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.7,
+            "overlayColor": "#fff",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "Call <b>01704 392 392</b> now to upgrade your listing",
+          "caption": "<p><span style=\"font-size: 1.25rem; line-height: 1.5;\">All prices quoted are plus VAT.<br>Standard Champion </span><a href=\"http://www.champnews.com/terms/\" target=\"_blank\" style=\"font-size: 1.25rem; background-color: rgb(0, 0, 0); line-height: 1.5;\">Terms &amp; Conditions</a><span style=\"font-size: 1.25rem; line-height: 1.5;\"> apply &nbsp; | &nbsp;&nbsp;<a href=\"http://www.champlocal.co.uk/ratecard.pdf\" target=\"_blank\">CLICK HERE</a> to download our Rate Card</span><br></p>",
+          "_styles": {
+            "P": {
+              "color": "#fbfbfb",
+              "text-align": "center",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "15px"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "text-align": "center",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "48px"
+            }
+          }
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "STRONG": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "12px"
+            },
+            "UL": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "contacts1-o",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/champlocal-decal-265x265.png",
+              "width": 265,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": 0,
+              "newWindow": false,
+              "active": true
+            }
+          },
+          "text1": "<strong>Address</strong><br>Clare House<br>166 Lord Street<br>Southport PR9 0QA",
+          "text2": "<strong>Contacts</strong><br><br>hello@champlocal.co.uk<br>01704 392 392",
+          "text3": "<strong>Links</strong><ul><li><a href=\"http://www.championmediagroup.com\" target=\"_blank\">Champion Media Group</a></li><li><a href=\"https://play.google.com/store/apps/details?id=co.uk.crosbyassociates.champlocal&amp;hl=en\" target=\"_blank\">Download for Android</a></li><li><a href=\"https://itunes.apple.com/gb/app/champ-local/id1188686883?mt=8&amp;ign-mpt=uo%3D4\" target=\"_blank\">Download for Apple iOS</a></li></ul>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "12px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-p",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,

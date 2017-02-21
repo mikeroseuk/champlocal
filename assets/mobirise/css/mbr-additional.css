@@ -52,7 +52,7 @@
 }
 #header3-j H3 {
   font-family: 'Open Sans', sans-serif;
-  font-size: 100px;
+  font-size: 84px;
   text-align: center;
 }
 #header3-j SMALL {
@@ -113,6 +113,61 @@
   font-family: 'Open Sans', sans-serif;
 }
 #footer1-f P {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+#ext_menu-n .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-n .nav-link {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+}
+#content5-s .mbr-section-title {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 72px;
+}
+#content5-s P {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 24px;
+}
+#pricing-table1-t DIV {
+  font-family: 'Open Sans', sans-serif;
+}
+#content5-v P {
+  color: #fbfbfb;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+}
+#content5-v .mbr-section-title {
+  color: #ffffff;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 48px;
+}
+#contacts1-o P {
+  font-family: 'Open Sans', sans-serif;
+}
+#contacts1-o STRONG {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+}
+#contacts1-o UL {
+  font-family: 'Open Sans', sans-serif;
+}
+#footer1-p P {
   font-family: 'Open Sans', sans-serif;
   font-size: 12px;
   text-align: center;
