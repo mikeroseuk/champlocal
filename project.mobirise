@@ -42,8 +42,8 @@
           "_anchor": "ext_menu-0",
           "_params": {
             "hamburgerColor": "#ffffff",
-            "sticky": true,
-            "transparent": false,
+            "sticky": false,
+            "transparent": true,
             "color": "#000000",
             "collapsed": true,
             "logo": true,
@@ -545,8 +545,8 @@
           "_anchor": "ext_menu-a",
           "_params": {
             "hamburgerColor": "#ffffff",
-            "sticky": true,
-            "transparent": false,
+            "sticky": false,
+            "transparent": true,
             "color": "#000000",
             "collapsed": true,
             "logo": true,
