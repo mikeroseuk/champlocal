@@ -80,7 +80,8 @@
           "_styles": {
             "H1": {
               "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#ffffff"
             },
             "B": {
               "font-size": "60px",
@@ -105,14 +106,14 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.4",
-            "overlayColor": "#0275d8",
+            "overlayColor": "#000000",
             "contentAlign": "left",
             "showTitle": true,
             "showText": true,
             "showButtons": true,
             "showArrow": true
           },
-          "title": "<b>The northwest’s<br>trusted business<br>finder app</b>",
+          "title": "The northwest’s<br>trusted business<br>finder app",
           "text": "The only business search app you'll ever need!<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://play.google.com/store/apps/details?id=co.uk.crosbyassociates.champlocal&amp;hl=en\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">For Android</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://itunes.apple.com/gb/app/champ-local/id1188686883?mt=8&amp;ign-mpt=uo%3D4\" data-toolbar=\"-mbrBtnMove\">For Apple iOS</a>"
         },
