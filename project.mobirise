@@ -90,7 +90,8 @@
             "P": {
               "color": "#ffffff",
               "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "25px"
             }
           },
           "_anchor": "header4-1",
@@ -114,7 +115,7 @@
             "showArrow": true
           },
           "title": "The northwest’s<br>trusted business<br>finder app",
-          "text": "The only business search app you'll ever need!<br>",
+          "text": "The only business search app <br>you'll ever need on your phone!<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://play.google.com/store/apps/details?id=co.uk.crosbyassociates.champlocal&amp;hl=en\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">For Android</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://itunes.apple.com/gb/app/champ-local/id1188686883?mt=8&amp;ign-mpt=uo%3D4\" data-toolbar=\"-mbrBtnMove\">For Apple iOS</a>"
         },
         {
@@ -420,7 +421,14 @@
           ],
           "_name": "buttons1",
           "_anchor": "buttons1-m",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">Business owners • enhance your entry here</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"business.html\" data-toolbar=\"-mbrBtnMove\">Business owners • enhance your entry here</a> ",
+          "_styles": {
+            ".btn": {
+              "font-size": "30px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          }
         },
         {
           "alias": "purity/components",
@@ -772,6 +780,18 @@
             "Theme"
           ],
           "_name": "content5",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "72px"
+            },
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "24px"
+            }
+          },
           "_anchor": "content5-s",
           "_params": {
             "paddingTop": 3,
@@ -792,19 +812,7 @@
             "showCaption": true
           },
           "title": "Get yourself noticed!",
-          "caption": "<p>Over 13,000 LOCAL businesses are listed on the ChampLocal app, under more than 700 categories from Accountants to Zoos. If you want your business to stand out, get a <b>PREMIUM LISTING</b>.</p><p>Your free listing shows your name, address and phone number.&nbsp;</p><p>With a <b>PREMIUM LISTING</b> you can add an additional phone number, both your email and website addresses, Facebook and Twitter links, a 500 character synopsis of your business and a location link using Google® Maps.</p><p>And you can afford it too!</p>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "72px"
-            },
-            "P": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "24px"
-            }
-          }
+          "caption": "<p>Over 13,000 LOCAL businesses are listed on the ChampLocal app, under more than 700 categories from Accountants to Zoos. If you want your business to stand out, get a <b>PREMIUM LISTING</b>.</p><p>Your free listing shows your name, address and phone number.&nbsp;</p><p>With a <b>PREMIUM LISTING</b> you can add an additional phone number, both your email and website addresses, Facebook and Twitter links, a 500 character synopsis of your business and a location link using Google® Maps.</p><p>And you can afford it too!</p>"
         },
         {
           "alias": "purity/components",
@@ -836,6 +844,12 @@
             "Theme"
           ],
           "_name": "pricing-table1",
+          "_styles": {
+            "DIV": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
           "_anchor": "pricing-table1-t",
           "_params": {
             "paddingTop": 3,
@@ -881,13 +895,7 @@
           "price4": "<b>59</b>",
           "period4": "per month",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>In-app Advertisement</b><br>(max. six)</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
-          "_styles": {
-            "DIV": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          }
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>"
         },
         {
           "alias": "purity/components",
@@ -895,6 +903,22 @@
             "Theme"
           ],
           "_name": "content5",
+          "_styles": {
+            "P": {
+              "color": "#fbfbfb",
+              "text-align": "center",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "15px"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "text-align": "center",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "48px"
+            }
+          },
           "_anchor": "content5-v",
           "_params": {
             "paddingTop": "1",
@@ -915,23 +939,7 @@
             "showCaption": true
           },
           "title": "Call <b>01704 392 392</b> now to upgrade your listing",
-          "caption": "<p><span style=\"font-size: 1.25rem; line-height: 1.5;\">All prices quoted are plus VAT.<br>Standard Champion </span><a href=\"http://www.champnews.com/terms/\" target=\"_blank\" style=\"font-size: 1.25rem; background-color: rgb(0, 0, 0); line-height: 1.5;\">Terms &amp; Conditions</a><span style=\"font-size: 1.25rem; line-height: 1.5;\"> apply &nbsp; | &nbsp;&nbsp;<a href=\"http://www.champlocal.co.uk/ratecard.pdf\" target=\"_blank\">CLICK HERE</a> to download our Rate Card</span><br></p>",
-          "_styles": {
-            "P": {
-              "color": "#fbfbfb",
-              "text-align": "center",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "15px"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff",
-              "text-align": "center",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "48px"
-            }
-          }
+          "caption": "<p><span style=\"font-size: 1.25rem; line-height: 1.5;\">All prices quoted are plus VAT.<br>Standard Champion </span><a href=\"http://www.champnews.com/terms/\" target=\"_blank\" style=\"font-size: 1.25rem; background-color: rgb(0, 0, 0); line-height: 1.5;\">Terms &amp; Conditions</a><span style=\"font-size: 1.25rem; line-height: 1.5;\"> apply &nbsp; | &nbsp;&nbsp;<a href=\"http://www.champlocal.co.uk/ratecard.pdf\" target=\"_blank\">CLICK HERE</a> to download our Rate Card</span><br></p>"
         },
         {
           "alias": "purity/components",

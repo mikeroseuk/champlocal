@@ -14,6 +14,7 @@
 
 
 
+
 #ext_menu-0 .navbar-toggler {
   color: #ffffff;
 }
@@ -32,6 +33,7 @@
 #header4-1 P {
   color: #ffffff;
   font-family: 'Open Sans', sans-serif;
+  font-size: 25px;
 }
 #content5-i .mbr-section-title {
   font-family: 'Open Sans', sans-serif;
@@ -61,6 +63,10 @@
   font-size: 14px;
 }
 #features1-l H4 {
+  font-family: 'Open Sans', sans-serif;
+}
+#buttons1-m .btn {
+  font-size: 30px;
   font-family: 'Open Sans', sans-serif;
 }
 #social-buttons1-4 .mbr-section-title {
