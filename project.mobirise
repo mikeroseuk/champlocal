@@ -84,7 +84,7 @@
             },
             "B": {
               "font-size": "60px",
-              "color": "#fbf2be"
+              "color": "#ffffff"
             },
             "P": {
               "color": "#ffffff",
@@ -105,7 +105,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.4",
-            "overlayColor": "#000000",
+            "overlayColor": "#0275d8",
             "contentAlign": "left",
             "showTitle": true,
             "showText": true,
