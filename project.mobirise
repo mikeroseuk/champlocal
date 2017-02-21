@@ -84,10 +84,10 @@
             },
             "B": {
               "font-size": "60px",
-              "color": "#fbfbfb"
+              "color": "#ffffff"
             },
             "P": {
-              "color": "#f8f8f6",
+              "color": "#ffffff",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
