@@ -132,12 +132,13 @@
             "P": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "20px"
             }
           },
           "_anchor": "content5-i",
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
@@ -149,13 +150,13 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.7,
+            "overlayOpacity": "0.8",
             "overlayColor": "#fff",
             "showTitle": true,
             "showCaption": true
           },
           "title": "Incredibly easy to use!",
-          "caption": "<p>You’ll wonder how you survived without the ChampLocal app. </p><p>It’s a breeze to use and deliveres just the right information you want when you need a LOCAL business. </p><p>Plumbers, gardeners, accountants, carpet fitters … whatever you need, when you need it. </p><p>And they're all just around the corner.</p>"
+          "caption": "<p>You’ll wonder how you survived without the ChampLocal app.</p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\">It’s a breeze to use and deliveres just the right information you want when you need a LOCAL business.</span></p><p>Plumbers, gardeners, accountants, carpet fitters … whatever you need, when you need it.&nbsp;<br><span style=\"font-size: 1.25rem; line-height: 1.5;\">And they're all just around the corner.</span></p><p><b>Over 13,000 businesses under more than 700 business categories <br>… throughout Sefton, North Liverpool and West Lancashire.</b></p>"
         },
         {
           "alias": "purity/components",
@@ -213,7 +214,7 @@
               "size": 0
             }
           },
-          "title1": "Easy Searching",
+          "title1": "<b>Easy</b> Searching",
           "caption1": "Just start typing what type of business you're looking for and your phone will automatically insert your current location for you",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
           "media2": {
@@ -233,7 +234,7 @@
               "size": 0
             }
           },
-          "title2": "Quick Results",
+          "title2": "<b>Quick</b> Results",
           "caption2": "Blazingly fast results appear with the closest result first … simply tap the entry and all of their business contact details are revealed",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
           "media3": {
@@ -253,7 +254,7 @@
               "size": 0
             }
           },
-          "title3": "Clear Data",
+          "title3": "<b>Clear</b> Data",
           "caption3": "Many listings have direct links to quick phone dialling, address, email and website links, plus social media, Google® Maps etc.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
           "media4": {
@@ -294,7 +295,7 @@
             }
           },
           "_anchor": "header3-j",
-          "title": "Did we mention that the app is a FREE download!",
+          "title": "Did we mention that the app is a <b>FREE</b> download!",
           "_params": {
             "showMeta": false
           },
@@ -351,7 +352,7 @@
               "size": 0
             }
           },
-          "title1": "Available for Apple iPhone and iPad",
+          "title1": "Available for Apple iPhones and iPads",
           "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
           "media2": {
@@ -376,10 +377,14 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/feature-google-fonts.png",
+              "src": "@PROJECT_PATH@/assets/images/iss_3531-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
@@ -387,7 +392,7 @@
               "size": 0
             }
           },
-          "title3": "Web Fonts",
+          "title3": "",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
           "media4": {
