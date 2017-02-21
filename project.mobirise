@@ -127,7 +127,8 @@
             ".mbr-section-title": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "60px"
             },
             "P": {
               "font-family": "'Open Sans', sans-serif",
@@ -488,14 +489,22 @@
           },
           "logo": {
             "image": {
-              "src": "images/footer-logo.png",
+              "src": "@PROJECT_PATH@/assets/images/champlocal-decal-265x265.png",
               "width": 265,
-              "active": true
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": 0,
+              "newWindow": false,
+              "active": true
             }
           },
           "text1": "<strong>Address</strong><br>Clare House<br>166 Lord Street<br>Southport PR9 0QA",
