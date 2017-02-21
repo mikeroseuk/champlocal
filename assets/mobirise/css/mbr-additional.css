@@ -151,6 +151,9 @@
 #pricing-table1-t DIV {
   font-family: 'Open Sans', sans-serif;
 }
+#pricing-table1-t UL {
+  color: #000000;
+}
 #content5-v P {
   color: #fbfbfb;
   text-align: center;

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ChampLocal",
-    "currentPage": "index.html",
+    "currentPage": "business.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -848,6 +848,9 @@
             "DIV": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "UL": {
+              "color": "#000000"
             }
           },
           "_anchor": "pricing-table1-t",
@@ -882,7 +885,7 @@
           "currency2": "<b>£</b>",
           "price2": "<b>59</b>",
           "period2": "per year",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Business Name</b></li><li class=\"list-group-item\"><b>Address</b></li><li class=\"list-group-item\"><b>2x Telephone numbers</b></li><li class=\"list-group-item\"><b>2x Business Categories</b></li><li class=\"list-group-item\"><b>Email &amp; Website Links</b></li><li class=\"list-group-item\"><b>Facbook &amp; Twitter Links</b></li><li class=\"list-group-item\"><b>Google® Map Link</b></li><li class=\"list-group-item\"><b>500 character synopsis</b></li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Business Name</b></li><li class=\"list-group-item\"><b>Address</b></li><li class=\"list-group-item\"><b>2x Telephone numbers</b></li><li class=\"list-group-item\"><b>Single Business Category</b></li><li class=\"list-group-item\"><b>Email &amp; Website Links</b></li><li class=\"list-group-item\"><b>Facbook &amp; Twitter Links</b></li><li class=\"list-group-item\"><b>Google® Map Link</b></li><li class=\"list-group-item\"><b>500 character synopsis</b></li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
           "title3": "ADDITIONAL CATEGORY",
           "currency3": "from <b>£</b>",
