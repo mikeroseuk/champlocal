@@ -1,11 +1,114 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #ext_menu-0 .navbar-toggler {
-  color: #000;
+  color: #ffffff;
+}
+#ext_menu-0 .nav-link {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
 }
 #header4-1 H1 {
   font-family: 'Open Sans', sans-serif;
 }
 #header4-1 B {
   font-size: 60px;
+  color: #fbfbfb;
+}
+#header4-1 P {
+  color: #f8f8f6;
+  font-family: 'Open Sans', sans-serif;
+}
+#content5-i .mbr-section-title {
+  font-family: 'Open Sans', sans-serif;
+}
+#content5-i P {
+  font-family: 'Open Sans', sans-serif;
+}
+#features1-5 H4 {
+  font-family: 'Open Sans', sans-serif;
+}
+#features1-5 P {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+#header3-j H3 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 100px;
+  text-align: center;
+}
+#header3-j SMALL {
+  font-family: 'Open Sans', sans-serif;
+  text-align: left;
+  font-size: 14px;
+}
+#features1-l H4 {
+  font-family: 'Open Sans', sans-serif;
+}
+#social-buttons1-4 .mbr-section-title {
+  font-family: 'Open Sans', sans-serif;
+}
+#contacts1-2 P {
+  font-family: 'Open Sans', sans-serif;
+}
+#contacts1-2 STRONG {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+}
+#contacts1-2 UL {
+  font-family: 'Open Sans', sans-serif;
+}
+#footer1-3 P {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+  text-align: center;
+}
+
+
+
+
+
+
+
+#ext_menu-a .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-a .nav-link {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+}
+#header3-g H3 {
+  font-family: 'Open Sans', sans-serif;
+}
+#content1-h P {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
+}
+#contacts1-e P {
+  font-family: 'Open Sans', sans-serif;
+}
+#contacts1-e STRONG {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+}
+#contacts1-e UL {
+  font-family: 'Open Sans', sans-serif;
+}
+#footer1-f P {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+  text-align: center;
 }
